@@ -1,0 +1,71 @@
+body{
+
+    background-color: rgb(219, 222, 226);
+}
+
+.cabecario{
+
+    display: flex;
+    justify-content: center;
+
+    background-color: rgb(97, 101, 105);
+    width: 100%;
+ border-radius: 10px;
+}
+nav{
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+
+  background-color: rgb(97, 101, 105);
+  width: 100%;
+  border-radius: 10px;
+}
+
+a{
+    color: white;
+    padding: 10px;
+}
+main{
+    background-color: aliceblue;
+    border-radius: 10px;
+    justify-content: center;
+    text-align: center;
+}
+footer{
+    background-color: rgb(97, 101, 105);
+    border-radius: 10px;
+    justify-content: center;
+    text-align: center;
+}
+
+address{
+    color: white;
+}
+
+.galeria1{
+    background-color:rgb(97, 101, 105); 
+    width: 100%;
+    border-radius: 10px;
+    justify-content: center;
+    text-align: center;
+}
+
+.login2{
+    background-color:rgb(219, 222, 226); 
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20%;
+}
+
+.mainlogin {
+    background-color: aliceblue;
+    width: 300px;
+    display: flex;
+    text-align: center;
+    padding: 20px;
+    height: 125px;
+    
+}
