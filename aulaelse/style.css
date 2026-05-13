@@ -1,0 +1,126 @@
+header {
+    background-color: palevioletred;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 100px;
+}
+
+nav {
+    gap: 10px;
+    display: flex;
+    justify-content: center;
+    background-color: pink;
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+a {
+    color: midnightblue;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.hj {
+    display: flex;
+    justify-self: center;
+    background-color: mediumvioletred;
+    padding: 5px;
+    border-radius: 10px;
+    margin-top: 60px;
+
+}
+
+.hj img {
+    justify-self: center;
+    border-radius: 10px;
+}
+
+.lice {
+    margin-top: 13px;
+}
+
+button {
+    background-color: palevioletred;
+}
+
+main h2 {
+    margin-bottom: 30px;
+}
+
+.lice {
+    padding: 20px;
+    justify-self: center;
+    margin-top: 250px;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: rgba(240, 46, 170, 0.4) 5px 5px, rgba(240, 46, 170, 0.3) 10px 10px, rgba(240, 46, 170, 0.2) 15px 15px, rgba(240, 46, 170, 0.1) 20px 20px, rgba(240, 46, 170, 0.05) 25px 25px;
+}
+
+.diva {
+    padding: 20px;
+    justify-self: center;
+   margin-top: 170px;
+   text-align: center;
+   border-radius: 10px;
+   box-shadow: rgba(240, 46, 170, 0.4) 5px 5px, rgba(240, 46, 170, 0.3) 10px 10px, rgba(240, 46, 170, 0.2) 15px 15px, rgba(240, 46, 170, 0.1) 20px 20px, rgba(240, 46, 170, 0.05) 25px 25px;
+}
+.diva h1{
+    margin-bottom: 50px;
+}
+
+.bttn{
+    margin-top: 20px;
+    width: 100px;
+    height: 50px;
+    border-radius: 8px;
+   
+}
+.inp{
+    padding: 10px;
+    border-radius: 8px;
+    width: 250px;
+}
+
+.aura{
+     display: flex;
+    justify-self: center;
+    padding: 20px;
+    margin-top: 170px;
+    border: 2px 2px solid black;
+    border-radius: 15px;
+    flex-direction: column;
+     box-shadow: rgba(240, 46, 170, 0.4) 5px 5px, rgba(240, 46, 170, 0.3) 10px 10px, rgba(240, 46, 170, 0.2) 15px 15px, rgba(240, 46, 170, 0.1) 20px 20px, rgba(240, 46, 170, 0.05) 25px 25px;
+}
+.inputdesconto {
+    padding: 10px;
+    border-radius: 7px;
+}
+.buttondesconto {
+    padding: 10px;
+    border-radius: 7px;
+}
+.aura{
+     margin-bottom: 50px;
+}
+.avaliacao {
+     display: flex;
+    justify-self: center;
+    padding: 20px;
+    margin-top: 170px;
+    border: 2px 2px solid black;
+    border-radius: 15px;
+    flex-direction: column;
+     box-shadow: rgba(240, 46, 170, 0.4) 5px 5px, rgba(240, 46, 170, 0.3) 10px 10px, rgba(240, 46, 170, 0.2) 15px 15px, rgba(240, 46, 170, 0.1) 20px 20px, rgba(240, 46, 170, 0.05) 25px 25px;
+}
+.inputavalia {
+    padding: 10px;
+    border-radius: 7px;
+    
+}
+.buttonavalia {
+    padding: 10px;
+    margin-top: 25px;
+    border-radius: 7px;
+}
