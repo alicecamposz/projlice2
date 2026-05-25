@@ -1,0 +1,193 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #222;
+    padding: 15px;
+}
+
+nav {
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 10px;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: #00aaff;
+}
+
+.container {
+    width: 80%;
+    max-width: 800px;
+    margin: 30px auto;
+    background-color: white;
+    padding: 25px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    color: #222;
+    text-align: center;
+}
+
+p {
+    font-size: 18px;
+    color: #555;
+    text-align: center;
+}
+
+h2 {
+    margin-top: 30px;
+    color: #333;
+}
+
+ul {
+    margin-top: 15px;
+}
+
+li {
+    margin-bottom: 10px;
+    font-size: 17px;
+}
+
+footer {
+    margin-top: 400px;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    text-align: center;
+    background-color: black;
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    padding: 50px;
+}
+
+body {
+    margin: 0;
+}
+
+main h1 {
+    display: flex;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    justify-content: center;
+
+}
+
+.agua {
+    background-color: cornflowerblue;
+    border-radius: 10px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 500px;
+    height: auto;
+    justify-self: center;
+    padding:25px;
+
+
+}
+
+.botaoagua {
+     border: 2px 2px solid black;
+     justify-content: center;
+     text-align: center;
+      display: flex;
+      justify-self: center;
+       border-radius: 7px;
+}
+.caixa {
+    background-color:  cornflowerblue;
+    width: 50%;
+    justify-self: center;
+    padding: 50px;
+    text-align: center;
+    margin-top: 50px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 15px 0px #000000;
+}
+
+.caixa input {
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.caixa button {
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.senha {
+    background-color: cornflowerblue;
+    width: 50%;
+    justify-self: center;
+    padding: 50px;
+    text-align: center;
+    margin-top: 50px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 15px 0px #000000;
+}
+
+.senha input {
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.senha button {
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.notas {
+    background-color:cornflowerblue ;
+    width: 50%;
+    justify-self: center;
+    padding: 50px;
+    text-align: center;
+    margin-top: 50px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 15px 0px #000000;
+}
+
+.notas input{
+padding: 5px;
+    border-radius: 5px;
+}
+
+.notas button{
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.conf {
+    background-color:cornflowerblue ;
+    width: 50%;
+    justify-self: center;
+    padding: 50px;
+    text-align: center;
+    margin-top: 50px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 15px 0px #000000;
+}
+
+
+.conf input{
+padding: 5px;
+    border-radius: 5px;
+}
+
+.conf button{
+    padding: 5px;
+    border-radius: 5px;
+}
